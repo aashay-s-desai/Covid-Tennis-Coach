@@ -56,6 +56,6 @@
 
 ## 🔗 Links
 
-This project was developed in Google Colab. View the full notebook here:  
+*This project was developed in Google Colab in 2021 and uploaded to Github in 2025*. View the full notebook here:  
 [🔗 Colab Notebook](https://colab.research.google.com/drive/1enXVq_m2Cm8pYgehMSUa3IE_GoXPneM-)
 
