@@ -1,4 +1,4 @@
-# 🏸 Covid Tennis Coach
+# 🎾 Covid Tennis Coach
 
 **Covid Tennis Coach** is a real-time feedback tool for tennis players built during the COVID-19 pandemic, when in-person coaching and practice partners weren’t an option. It uses a Bluetooth-connected Arduino with an IMU sensor mounted on a tennis racket to track motion data, and a custom-trained logistic regression model to classify each shot as “good” or “bad” based on the user's own training data.
 
